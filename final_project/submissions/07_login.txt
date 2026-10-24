@@ -1,0 +1,4 @@
+{
+  "message": "User successfully logged in",
+  "token": "[REDACTED]"
+}
